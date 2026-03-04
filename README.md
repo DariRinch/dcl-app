@@ -14,6 +14,18 @@ Every agent decision is evaluated against a policy and recorded in a tamper-evid
 
 ---
 
+## Screenshots
+
+![DCL NO_COMMIT — jailbreak detected](screenshots/1.png)
+
+![DCL NO_COMMIT — full audit trail](screenshots/3.png)
+
+![DCL COMMIT — agent response approved](screenshots/4.png)
+
+![DCL DriftMonitor — Z-test statistical analysis](screenshots/2.png)
+
+---
+
 ## Features
 
 - Policy editor with drag & drop YAML support
