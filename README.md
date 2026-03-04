@@ -71,4 +71,11 @@ Every agent decision is evaluated against a policy and recorded in a tamper-evid
 
 ---
 
+## Contact
+
+Enterprise / commercial use, custom features, on-prem support:  
+📧 KeyKeeper_42@proton.me
+
+---
+
 *© 2026 Fronesis Labs*
