@@ -1,0 +1,23 @@
+Fronesis Labs Source-Available License v1.0
+
+Copyright (c) 2026 Fronesis Labs. All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to view,
+use, and evaluate the Software strictly for non-commercial, personal,
+educational, research, testing, or evaluation purposes only.
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+Restrictions:
+- Commercial use is prohibited without explicit prior written permission from Fronesis Labs.
+- Modification, distribution, sublicensing, or creation of derivative works
+  requires explicit prior written permission from Fronesis Labs.
+- Reverse engineering is prohibited except as required by applicable law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+IN NO EVENT SHALL FRONESIS LABS BE LIABLE FOR ANY CLAIM OR DAMAGES.
+
+Core architecture and certain methods implemented in the Software are patent
+pending. Any use of the Software does not grant any license under such patents.
