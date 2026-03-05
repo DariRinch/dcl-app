@@ -72,7 +72,7 @@ Every agent decision is evaluated against a policy and recorded in a tamper-evid
 ---
 
 ## Download
-[Windows .exe v1.0.0](https://github.com/DariRinch/dcl-app/releases/download/v1.0.0/DCL-Evaluator.exe)
+[Windows .exe v1.0.0](https://github.com/DariRinch/dcl-app/releases)
 
 ## Contact
 
